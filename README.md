@@ -2,12 +2,14 @@
 
 # 🚀 Engineering Career Roadmap
 
-### Research & preparation for Big Tech, Quant/HFT, AI, and Distributed Systems
+### by **Karthik**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/DsrKarthiKeya/Engineering-Career-Roadmap?style=social)
-![GitHub forks](https://img.shields.io/github/forks/DsrKarthiKeya/Engineering-Career-Roadmap?style=social)
-![GitHub issues](https://img.shields.io/github/issues/DsrKarthiKeya/Engineering-Career-Roadmap)
-![GitHub last commit](https://img.shields.io/github/last-commit/DsrKarthiKeya/Engineering-Career-Roadmap)
+Big Tech • Quant/HFT • AI • Distributed Systems
+
+![Stars](https://img.shields.io/github/stars/DsrKarthiKeya/Engineering-Career-Roadmap?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/DsrKarthiKeya/Engineering-Career-Roadmap?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/DsrKarthiKeya/Engineering-Career-Roadmap?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/DsrKarthiKeya/Engineering-Career-Roadmap?style=for-the-badge)
 
 </div>
 
@@ -15,17 +17,17 @@
 
 ## 📖 Overview
 
-This repository documents a **research-driven roadmap for elite engineering careers** across multiple advanced technology domains.
+This repository is a **research-driven roadmap created by Karthik** to explore elite engineering careers across multiple advanced technology domains.
 
 Focus areas include:
 
 * 🌍 Big Tech Engineering
-* 💰 Quantitative Finance & HFT
+* 💰 Quantitative Trading & HFT
 * 🤖 Artificial Intelligence
 * ⛓ Blockchain & Web3 Infrastructure
-* ⚙️ Distributed Systems Engineering
+* ⚙️ Distributed Systems
 
-The goal is to understand **which companies build world-scale technology systems and what skills are required to work there.**
+The objective is to understand **which companies build world-scale technology systems and what skills are required to work there.**
 
 ---
 
@@ -35,13 +37,28 @@ The goal is to understand **which companies build world-scale technology systems
 | ---------- | ------------------------------- |
 | Google     | AI, Search, Distributed Systems |
 | Amazon     | Cloud Infrastructure            |
-| Microsoft  | Enterprise Software & Cloud     |
+| Microsoft  | Enterprise Software             |
 | Meta       | Social Platforms & AI           |
-| Apple      | Hardware + Software Ecosystem   |
+| Apple      | Hardware + Software             |
 | Nvidia     | AI Hardware                     |
 | Uber       | Mobility Platforms              |
 | Salesforce | Enterprise Cloud                |
-| Adobe      | Digital Media Platforms         |
+| Adobe      | Digital Media                   |
+
+---
+
+# 🇮🇳 Indian Product Companies
+
+| Company    | Domain              |
+| ---------- | ------------------- |
+| Razorpay   | Fintech             |
+| CRED       | Fintech             |
+| PhonePe    | Digital Payments    |
+| Zeta       | Banking Tech        |
+| Zoho       | SaaS                |
+| Freshworks | Customer Software   |
+| Swiggy     | Food Delivery       |
+| Zomato     | Restaurant Platform |
 
 ---
 
@@ -58,7 +75,7 @@ The goal is to understand **which companies build world-scale technology systems
 | Two Sigma            | Quantitative Research  |
 | DRW                  | Proprietary Trading    |
 | Five Rings Capital   | Quant Trading          |
-| Tower Research       | High Frequency Trading |
+| Tower Research       | HFT                    |
 
 ---
 
@@ -68,14 +85,14 @@ The goal is to understand **which companies build world-scale technology systems
 | ------------ | ---------------------- |
 | Uniswap      | Decentralized Exchange |
 | Aave         | DeFi Lending           |
-| MakerDAO     | Stablecoin Protocol    |
-| SushiSwap    | Decentralized Exchange |
+| MakerDAO     | Stablecoin             |
+| SushiSwap    | DEX                    |
 | PancakeSwap  | DeFi Exchange          |
 | Polygon Labs | Ethereum Scaling       |
 
 ---
 
-# 👨‍💻 Engineering Roles
+# 👨‍💻 Target Engineering Roles
 
 * Software Development Engineer (SDE)
 * Machine Learning Engineer
@@ -93,12 +110,12 @@ The goal is to understand **which companies build world-scale technology systems
 
 ### Programming Languages
 
-* C++
-* Python
-* Java
-* Rust
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 
-### Core Foundations
+### Computer Science Foundations
 
 * Data Structures & Algorithms
 * Operating Systems
@@ -126,7 +143,7 @@ AI / Quant / Web3 Engineering
 
 # 🎯 Long-Term Vision
 
-The goal is to contribute to building **high-performance technology systems operating at global scale**, including:
+The goal is to contribute to building **high-performance systems operating at global scale**, including:
 
 * distributed cloud infrastructure
 * quantitative trading platforms
