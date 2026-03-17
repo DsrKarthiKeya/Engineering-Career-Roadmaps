@@ -1,106 +1,95 @@
+<div align="center">
+
 # 🚀 Engineering Career Roadmap
 
-A curated research repository focused on **Big Tech engineering, Quant/HFT firms, AI systems, and modern distributed software infrastructure**.
+### Research & preparation for Big Tech, Quant/HFT, AI, and Distributed Systems
 
-The purpose of this repository is to document **high-impact technology companies, advanced engineering roles, and the core computer science knowledge required to build world-class systems.**
+![GitHub Repo stars](https://img.shields.io/github/stars/DsrKarthiKeya/Engineering-Career-Roadmap?style=social)
+![GitHub forks](https://img.shields.io/github/forks/DsrKarthiKeya/Engineering-Career-Roadmap?style=social)
+![GitHub issues](https://img.shields.io/github/issues/DsrKarthiKeya/Engineering-Career-Roadmap)
+![GitHub last commit](https://img.shields.io/github/last-commit/DsrKarthiKeya/Engineering-Career-Roadmap)
 
----
-
-## 🌍 Big Tech Companies
-
-* Google
-* Amazon
-* Microsoft
-* Meta
-* Apple
-* Nvidia
-* Uber
-* Salesforce
-* Adobe
-
-These companies build **planet-scale distributed systems** and require deep expertise in:
-
-* Data Structures & Algorithms
-* Distributed Systems
-* System Design
-* High-Performance Computing
+</div>
 
 ---
 
-## 🇮🇳 Indian Product Companies
+## 📖 Overview
 
-* Zeta
-* CRED
-* Razorpay
-* Atlassian India
-* Sprinklr
-* PhonePe
-* Swiggy
-* Zomato
-* Zoho
-* Freshworks
+This repository documents a **research-driven roadmap for elite engineering careers** across multiple advanced technology domains.
 
-These organizations build **scalable product platforms used by millions of users**.
+Focus areas include:
 
----
+* 🌍 Big Tech Engineering
+* 💰 Quantitative Finance & HFT
+* 🤖 Artificial Intelligence
+* ⛓ Blockchain & Web3 Infrastructure
+* ⚙️ Distributed Systems Engineering
 
-## 💰 Quant & High-Frequency Trading Firms
-
-* Jane Street
-* Citadel
-* Hudson River Trading
-* Jump Trading
-* Optiver
-* IMC Trading
-* Two Sigma
-* DRW
-* Five Rings Capital
-* Tower Research
-
-Engineering in these firms focuses on:
-
-* Ultra-low latency systems
-* High-performance C++
-* Mathematical modeling
-* Probability & statistics
-* Advanced algorithms
+The goal is to understand **which companies build world-scale technology systems and what skills are required to work there.**
 
 ---
 
-## ⛓ Web3 / DeFi Infrastructure
+# 🌍 Big Tech Companies
 
-* Uniswap
-* Aave
-* MakerDAO
-* SushiSwap
-* PancakeSwap
-* Polygon Labs
-
-Engineering in this domain focuses on:
-
-* Smart contracts
-* Cryptography
-* Blockchain protocols
-* Decentralized systems
+| Company    | Domain                          |
+| ---------- | ------------------------------- |
+| Google     | AI, Search, Distributed Systems |
+| Amazon     | Cloud Infrastructure            |
+| Microsoft  | Enterprise Software & Cloud     |
+| Meta       | Social Platforms & AI           |
+| Apple      | Hardware + Software Ecosystem   |
+| Nvidia     | AI Hardware                     |
+| Uber       | Mobility Platforms              |
+| Salesforce | Enterprise Cloud                |
+| Adobe      | Digital Media Platforms         |
 
 ---
 
-## 👨‍💻 Target Engineering Roles
+# 💰 Quant & HFT Firms
+
+| Firm                 | Specialization         |
+| -------------------- | ---------------------- |
+| Jane Street          | Quantitative Trading   |
+| Citadel              | Hedge Fund             |
+| Hudson River Trading | High Frequency Trading |
+| Jump Trading         | Proprietary Trading    |
+| Optiver              | Market Making          |
+| IMC Trading          | Algorithmic Trading    |
+| Two Sigma            | Quantitative Research  |
+| DRW                  | Proprietary Trading    |
+| Five Rings Capital   | Quant Trading          |
+| Tower Research       | High Frequency Trading |
+
+---
+
+# ⛓ Web3 / DeFi Infrastructure
+
+| Project      | Domain                 |
+| ------------ | ---------------------- |
+| Uniswap      | Decentralized Exchange |
+| Aave         | DeFi Lending           |
+| MakerDAO     | Stablecoin Protocol    |
+| SushiSwap    | Decentralized Exchange |
+| PancakeSwap  | DeFi Exchange          |
+| Polygon Labs | Ethereum Scaling       |
+
+---
+
+# 👨‍💻 Engineering Roles
 
 * Software Development Engineer (SDE)
-* Systems Engineer
 * Machine Learning Engineer
 * Security Engineer
 * DevOps / Cloud Engineer
 * Data Engineer
-* Site Reliability Engineer (SRE)
-* Quantitative Researcher
+* Site Reliability Engineer
 * Quant Developer
+* Quantitative Researcher
 * HFT Systems Engineer
 
 ---
 
-## 🧠 Core Computer Science Skills
+# 🧠 Core Computer Science Skills
 
 ### Programming Languages
 
@@ -109,7 +98,7 @@ Engineering in this domain focuses on:
 * Java
 * Rust
 
-### Computer Science Fundamentals
+### Core Foundations
 
 * Data Structures & Algorithms
 * Operating Systems
@@ -119,7 +108,7 @@ Engineering in this domain focuses on:
 
 ---
 
-## 🎯 Learning Path
+# 📈 Engineering Growth Path
 
 ```
 Data Structures & Algorithms
@@ -135,13 +124,15 @@ AI / Quant / Web3 Engineering
 
 ---
 
-## 🌟 Long-Term Vision
+# 🎯 Long-Term Vision
 
-The long-term goal is to contribute to building **high-performance software systems operating at global scale**, including:
+The goal is to contribute to building **high-performance technology systems operating at global scale**, including:
 
 * distributed cloud infrastructure
-* quantitative trading systems
-* artificial intelligence platforms
+* quantitative trading platforms
+* artificial intelligence systems
 * decentralized financial networks
 
 ---
+
+⭐ If you find this repository useful, consider **starring the project**.
