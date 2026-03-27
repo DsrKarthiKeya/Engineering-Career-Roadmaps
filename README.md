@@ -2,7 +2,7 @@
 
 # 🚀 Engineering Career Roadmaps
 
-### by **Karthik**
+### by **Karthikeya**
 
 Big Tech • Quant/HFT • AI • Distributed Systems
 
